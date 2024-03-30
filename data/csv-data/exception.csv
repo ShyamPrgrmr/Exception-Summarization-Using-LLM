@@ -1,0 +1,60 @@
+ExceptionID,ExceptionName,ExceptionCause,ExceptionResolution 
+001,InvalidShippingAddress,The shipping address provided by the user is invalid.,Please provide a valid shipping address and try again.
+002,InsufficientInventory,The requested quantity of a product exceeds the available inventory.,Please reduce the quantity or choose another product.
+003,InvalidCouponCode,The coupon code entered by the user is invalid or expired.,Please enter a valid coupon code or proceed without it.
+004,PaymentFailed,The payment transaction failed.,Please check your payment details and try again or use an alternative payment method.
+005,ProductNotAvailable,The requested product is currently unavailable.,Please choose another product or check back later for availability.
+006,InvalidCreditCardNumber,The credit card number provided by the user is invalid.,Please enter a valid credit card number and try again.
+007,OrderNotFound,The requested order could not be found in the system.,Please verify the order details and try again or contact customer support for assistance.
+008,DuplicateEmailAddress,The email address provided by the user already exists in our system.,Please use a different email address or log in using your existing account.
+009,InvalidShippingMethod,The selected shipping method is invalid or not supported.,Please choose a valid shipping method from the available options.
+010,CartEmpty,The shopping cart is empty.,Please add items to your cart before proceeding to checkout.
+011,InvalidProductVariant,The selected product variant is invalid or not available.,Please choose another variant or product.
+012,InsufficientFunds,The user does not have sufficient funds to complete the transaction.,Please add funds to your account or use a different payment method.
+013,AccountLocked,The user account has been temporarily locked.,Please contact customer support to unlock your account.
+014,InvalidPromoCode,The promo code entered by the user is invalid or expired.,Please enter a valid promo code or proceed without it.
+015,InvalidLoginCredentials,The login credentials provided by the user are incorrect.,Please double-check your username and password and try again.
+016,InvalidReturnRequest,The return request is invalid or cannot be processed.,Please provide valid reasons for the return or contact customer support for assistance.
+017,OrderCancellationFailed,The cancellation request for the order could not be processed.,Please try again later or contact customer support for assistance.
+018,InvalidSecurityCode,The security code entered for the payment method is invalid.,Please enter a valid security code and try again.
+019,ProductOutOfStock,The requested product is currently out of stock.,Please choose another product or check back later for availability.
+020,AccountCreationFailed,The user account could not be created.,Please ensure all required information is provided correctly and try again.
+021,InvalidDeliveryAddress,The delivery address provided by the user is invalid.,Please provide a valid delivery address and try again.
+022,OrderModificationFailed,The requested modification to the order could not be completed.,Please try again later or contact customer support for assistance.
+023,InvalidPaymentMethod,The selected payment method is invalid or not supported.,Please choose a valid payment method from the available options.
+024,ProductNotFound,The requested product could not be found in our catalog.,Please check the product name or category and try again.
+025,DuplicateOrder,An order with the same details already exists in our system.,Please verify your order history or contact customer support for assistance.
+026,AccountDeletionFailed,The user account could not be deleted.,Please try again later or contact customer support for assistance.
+027,InvalidEmailAddress,The email address provided by the user is invalid.,Please enter a valid email address and try again.
+028,InvalidOrderStatus,The requested action cannot be performed on the current order status.,Please review the order status or contact customer support for assistance.
+029,PaymentAuthorizationFailed,The payment authorization could not be completed.,Please verify your payment details or use an alternative payment method.
+030,InvalidPhoneNumber,The phone number provided by the user is invalid.,Please enter a valid phone number and try again.
+031,InvalidShippingOption,The selected shipping option is invalid or not available for the current order.,Please choose another shipping option or contact customer support for assistance.
+032,AccountSuspensionFailed,The user account could not be suspended.,Please try again later or contact customer support for assistance.
+033,InvalidOrderID,The order ID provided by the user is invalid.,Please provide a valid order ID and try again.
+034,InvalidCategory,The selected product category is invalid or does not exist.,Please choose a valid category from the available options.
+035,AccountReactivationFailed,The user account could not be reactivated.,Please try again later or contact customer support for assistance.
+036,InvalidProductID,The product ID provided by the user is invalid.,Please provide a valid product ID and try again.
+037,AccountUpdateFailed,The user account could not be updated.,Please ensure all information is provided correctly and try again.
+038,InvalidOrderDetails,The order details provided by the user are invalid.,Please review the order information and try again.
+039,AccountVerificationFailed,The user account could not be verified.,Please try again later or contact customer support for assistance.
+040,InvalidProductName,The product name provided by the user is invalid.,Please enter a valid product name and try again.
+041,AccountLoginFailed,The user account could not be logged in.,Please double-check your login credentials and try again.
+042,InvalidOrderQuantity,The order quantity provided by the user is invalid.,Please enter a valid quantity and try again.
+043,AccountLogoutFailed,The user account could not be logged out.,Please try again later or contact customer support for assistance.
+044,InvalidOrderDate,The order date provided by the user is invalid.,Please enter a valid order date and try again.
+045,AccountPasswordResetFailed,The user account password could not be reset.,Please try again later or contact customer support for assistance.
+046,InvalidOrderTotal,The order total provided by the user is invalid.,Please enter a valid order total and try again.
+047,AccountCreationLimitExceeded,The user account creation limit has been exceeded.,Please contact customer support for assistance.
+048,InvalidOrderStatusUpdate,The requested order status update is invalid or not allowed.,Please review the order status or contact customer support for assistance.
+049,AccountDeactivationFailed,The user account could not be deactivated.,Please try again later or contact customer support for assistance.
+050,InvalidOrderPayment,The order payment details provided by the user are invalid.,Please review the payment information and try again.
+051,AccountSuspensionLimitExceeded,The user account suspension limit has been exceeded.,Please contact customer support for assistance.
+052,InvalidOrderShipping,The order shipping details provided by the user are invalid.,Please review the shipping information and try again.
+053,AccountReactivationLimitExceeded,The user account reactivation limit has been exceeded.,Please contact customer support for assistance.
+054,InvalidOrderCancellation,The order cancellation request is invalid or cannot be processed.,Please provide valid reasons for the cancellation or contact customer support for assistance.
+055,AccountUpdateLimitExceeded,The user account update limit has been exceeded.,Please contact customer support for assistance.
+056,InvalidOrderModification,The order modification request is invalid or cannot be completed.,Please provide valid reasons for the modification or contact customer support for assistance.
+057,AccountVerificationLimitExceeded,The user account verification limit has been exceeded.,Please contact customer support for assistance.
+058,InvalidOrderReturn,The order return request is invalid or cannot be processed.,Please provide valid reasons for the return or contact customer support for assistance.
+059,AccountDeletionLimitExceeded,The user account deletion limit has been exceeded.,Please contact customer support for assistance.

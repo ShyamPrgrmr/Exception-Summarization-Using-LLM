@@ -1,0 +1,10 @@
+Ecommerce app is throwing below exception, you have to tell Enduser about this in simple language by generating summary.  
+App will show your response on UI. SO BE CAREFUL!
+BE CREATIVE, At least print 200 words. 
+NO EXPLAINATION.
+User Name: Shyam
+User Number: 1234
+Exception ID: 034
+Exception Name: InvalidCategory
+Exception Cause: The selected product category is invalid or does not exist., 
+Exception Resolution(How to resolve): Please choose a valid category from the available options.
