@@ -39,6 +39,7 @@ To utilize this system for exception summarization in your Spring Boot applicati
 
 ## Project Diagram
 
-![alt text]([http://url/to/img.png](https://github.com/ShyamPrgrmr/Exception-Summarization-Using-LLM/blob/main/images/Exception-Summarization%20Small.jpg))
 
+
+![Project Image](https://github.com/ShyamPrgrmr/Exception-Summarization-Using-LLM/blob/main/images/Exception-Summarization%20Small.jpg)
 
