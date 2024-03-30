@@ -37,3 +37,6 @@ To utilize this system for exception summarization in your Spring Boot applicati
 4. Deploy the Flask server to handle summarization requests and interact with LLM, RAG, and ChromaDB.
 5. Integrate exception logging in your Spring Boot application to publish exception details to the Kafka topic.
 
+## Project Diagram
+
+https://github.com/ShyamPrgrmr/Exception-Summarization-Using-LLM/blob/main/images/Exception-Summarization%20Small.jpg
